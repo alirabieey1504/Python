@@ -42,6 +42,7 @@ while 1:
             if index_list is not None:
                 del concat[index_list[0]]
             else:
+
                 print(concat)
 
     elif number == 5:
